@@ -1,0 +1,345 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.experience-the-world-of-physic,
+.learn-embedded-systems {
+    position: absolute;
+    top: 352px;
+    left: 650px;
+    display: inline-block;
+    width: 995px;
+    height: 262px;
+}
+
+.experience-the-world-of-physic {
+    top: 449px;
+    font-size: var(--font-size-base);
+    width: 1601px;
+    height: 265px;
+}
+
+.join-now-div,
+.rectangle-div {
+    position: absolute;
+    top: 0;
+    height: 85px;
+}
+
+.rectangle-div {
+    left: 0;
+    border-radius: var(--br-md);
+    background-color: var(--color-gray-100);
+    width: 224px;
+}
+
+.join-now-div {
+    left: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 222px;
+}
+
+.about-div,
+.button-div,
+.button-div1,
+.join-div {
+    position: absolute;
+    top: 596px;
+    left: 650px;
+    width: 224px;
+    height: 85px;
+    cursor: pointer;
+    text-align: center;
+    font-size: var(--font-size-lg);
+}
+
+.about-div,
+.button-div1,
+.join-div {
+    top: 1907px;
+    left: 528px;
+}
+
+.about-div,
+.join-div {
+    top: 0;
+    left: 1063px;
+    font-size: var(--font-size-xl);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 141px;
+    height: 98px;
+}
+
+.about-div {
+    left: 867px;
+}
+
+.output-onlinegiftools-1-icon,
+.urgrfihkqvru9h8ynkr80g-1-icon {
+    position: absolute;
+    top: 296px;
+    left: 40px;
+    width: 543px;
+    height: 459px;
+    object-fit: cover;
+}
+
+.output-onlinegiftools-1-icon {
+    top: 8px;
+    left: 0;
+    width: 76.42px;
+    height: 60px;
+}
+
+.ieci-div {
+    position: absolute;
+    top: 0;
+    left: 97px;
+    display: inline-block;
+}
+
+.about-div1,
+.logo-div {
+    position: absolute;
+    left: 108px;
+}
+
+.logo-div {
+    top: 12px;
+    width: 186px;
+    height: 75px;
+    font-size: var(--font-size-3xl);
+}
+
+.about-div1 {
+    top: 1094px;
+    display: inline-block;
+}
+
+.institute-of-embedded {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.join-with-us {
+    margin: 0;
+}
+
+.institute-of-embedded-computin {
+    position: absolute;
+    top: 1168px;
+    left: 108px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+}
+
+.output-onlinegiftools-2-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 484px;
+    height: 372px;
+    object-fit: cover;
+}
+
+.ieci-div1 {
+    position: absolute;
+    top: 126px;
+    left: 477px;
+    display: inline-block;
+    width: 217px;
+    height: 120px;
+}
+
+.about-logo-div {
+    position: absolute;
+    top: 1403px;
+    left: 293px;
+    width: 694px;
+    height: 372px;
+    font-size: 72px;
+}
+
+.an-embedded-system-or-embedded,
+.what-is-an-embedded-system-mea {
+    position: absolute;
+    top: 2247px;
+    left: 108px;
+    display: inline-block;
+}
+
+.an-embedded-system-or-embedded {
+    top: 2315px;
+    font-size: var(--font-size-base);
+}
+
+.shutterstock-13717364781-2-icon {
+    position: absolute;
+    top: 2409px;
+    left: 129px;
+    width: 1000px;
+    height: 667px;
+    object-fit: cover;
+}
+
+.development-boards-are-printed,
+.what-are-devlopment-boards-mea {
+    position: absolute;
+    top: 3327px;
+    left: 108px;
+    display: inline-block;
+}
+
+.development-boards-are-printed {
+    top: 3395px;
+    font-size: var(--font-size-base);
+}
+
+.bbc-micro-bit-is-an-open-sourc,
+.bbc-microbit-div {
+    position: absolute;
+    top: 4654px;
+    left: 108px;
+    display: inline-block;
+}
+
+.bbc-micro-bit-is-an-open-sourc {
+    top: 4722px;
+    font-size: var(--font-size-base);
+}
+
+.jxdh6eoar8nb2sanfaxxw-1-2-icon {
+    position: absolute;
+    top: 4860px;
+    left: 117px;
+    width: 1046px;
+    height: 584px;
+    object-fit: cover;
+}
+
+.arduino-div,
+.arduino-is-an-open-source-elec {
+    position: absolute;
+    top: 5732px;
+    left: 108px;
+    display: inline-block;
+}
+
+.arduino-is-an-open-source-elec {
+    top: 5800px;
+    font-size: var(--font-size-base);
+}
+
+.bgyimufjivwnma8mxnphua-2-icon {
+    position: absolute;
+    top: 5929px;
+    left: 117px;
+    width: 1046px;
+    height: 654px;
+    object-fit: cover;
+}
+
+.raspberry-pi-div,
+.raspberry-pi-is-defined-as-a-m {
+    position: absolute;
+    top: 6881px;
+    left: 108px;
+    display: inline-block;
+}
+
+.raspberry-pi-is-defined-as-a-m {
+    top: 6949px;
+    font-size: var(--font-size-base);
+}
+
+.pngfind-2-icon {
+    position: absolute;
+    top: 7074px;
+    left: 89px;
+    width: 1103px;
+    height: 806px;
+    object-fit: cover;
+}
+
+.join-div1,
+.well-start-the-cource-soon-u {
+    position: absolute;
+    top: 8546px;
+    left: 108px;
+    text-align: center;
+    display: inline-block;
+}
+
+.well-start-the-cource-soon-u {
+    top: 8614px;
+}
+
+.output-onlinegiftools2-1-icon {
+    position: absolute;
+    top: 8993px;
+    left: 400px;
+    width: 480px;
+    height: 308px;
+    object-fit: cover;
+}
+
+.rectangle-div2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #202027;
+    width: 1350px;
+    height: 108px;
+}
+
+.logo-div1 {
+    position: absolute;
+    top: 16px;
+    left: 111px;
+    width: 186px;
+    height: 75px;
+    cursor: pointer;
+}
+
+.institute-of-embedded-computin1 {
+    position: absolute;
+    top: 39px;
+    left: 640px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+}
+
+.footer-div {
+    position: absolute;
+    top: 9612px;
+    left: 0;
+    width: 1280px;
+    height: 108px;
+    font-size: var(--font-size-3xl);
+}
+
+.vypd6y9yl-1-icon {
+    position: absolute;
+    top: 3567px;
+    left: 90px;
+    width: 1100px;
+    height: 798px;
+    object-fit: cover;
+}
+
+.landing-page-div {
+    position: relative;
+    background-color: #25313e;
+    width: 100%;
+    height: 9720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-2xl);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+}
